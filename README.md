@@ -10,4 +10,4 @@ Boilerplate project using CoffeeScript, RequireJS, AMD, Mocha, Chai, Jam and Tes
 # testem
 ```
 
-https://github.com/smucode/coffee-amd-mocha-testem-boilerplate
+http://smuco.de/2013/04/25/coffeescript-amd-mocha-testem.html
