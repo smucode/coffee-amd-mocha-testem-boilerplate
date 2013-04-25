@@ -9,3 +9,5 @@ Boilerplate project using CoffeeScript, RequireJS, AMD, Mocha, Chai, Jam and Tes
 # jam install
 # testem
 ```
+
+https://github.com/smucode/coffee-amd-mocha-testem-boilerplate
