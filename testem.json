@@ -1,3 +1,6 @@
 {
-  "test_page": "test/runner.html"
+  "test_page": "test/runner.html",
+  "src_files": [
+    "*/test/**.coffee"
+  ]
 }
