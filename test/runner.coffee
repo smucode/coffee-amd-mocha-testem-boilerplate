@@ -1,4 +1,4 @@
-require ['require', 'lib/chai'], (require, chai) ->
+require ['require', 'jam/chai/chai'], (require, chai) ->
   chai.should()
   mocha.setup('bdd')
 
